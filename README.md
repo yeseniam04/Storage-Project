@@ -32,3 +32,6 @@ The program will prompt the user to:
 - Add GUI
 - Improve file format
 - Add search/filter feature
+
+ ##Licence
+  - this project is licenced under the MIT licence
