@@ -23,11 +23,7 @@ jobs:
         languages: cpp
 
     - name: Build project
-      run: |
-        mkdir build
-        cd build
-        cmake ..
-        make
+      run: g++ main.cpp -o program
 
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v2
