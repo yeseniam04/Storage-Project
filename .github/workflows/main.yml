@@ -9,9 +9,10 @@ jobs:
   analysis:
     runs-on: ubuntu-latest
     permissions:
-      security-events: write
+     contents: read
+     security-events: write
+     actions: read
+     
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
       - name: Run Scorecard
         uses: ossf/scorecard-action@v2
