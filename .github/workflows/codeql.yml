@@ -24,7 +24,8 @@ jobs:
         build-mode: manual
 
     - name: Build project
-      run: g++ main.cpp -o program
+      run: |
+        g++ -std=c++17 main.cpp -o program
 
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v2
