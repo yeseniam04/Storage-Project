@@ -35,3 +35,7 @@ The program will prompt the user to:
 
  ##Licence
   - this project is licenced under the MIT licence
+
+ ## Static Analysis
+
+This project uses cppcheck for static code analysis to identify potential issues and improve code quality.
