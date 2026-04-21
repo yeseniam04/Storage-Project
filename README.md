@@ -1,4 +1,4 @@
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/yeseniam04/Storage-Project/badge)](https://scorecard.dev/viewer/?uri=github.com/yeseniam04/Storage-Project)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/yeseniam04/Storage-Project/badge)](https://securityscorecards.dev/viewer/?uri=github.com/yeseniam04/Storage-Project)
 
 <a href="https://www.bestpractices.dev/projects/12609"><img src="https://www.bestpractices.dev/projects/12609/badge"></a>
 
